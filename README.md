@@ -14,3 +14,14 @@ This game is played on a 3x3 grid or board. Players 1 and 2( Computer) mark the 
 2. The game board is a 3x3 grid, with positions indexed from 0 to 2 rows and columns.
 3. A player wins if they get three marks in a row, horizontally, vertically, or diagonally.
 4. The game is a draw if all positions are filled.
+
+--
+
+## Winning Scenarios
+
+- **Row 0**: (0,0), (0,1), (0,2)
+- **Row 0**: (1,0), (1,1), (1,2)
+- **Row 0**: (2,0), (2,1), (2,2)
+
+
+
